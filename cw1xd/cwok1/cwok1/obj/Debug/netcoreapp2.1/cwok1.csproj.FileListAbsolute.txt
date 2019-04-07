@@ -1,0 +1,11 @@
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\obj\Debug\netcoreapp2.1\cwok1.csprojAssemblyReference.cache
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\obj\Debug\netcoreapp2.1\cwok1.csproj.CoreCompileInputs.cache
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\obj\Debug\netcoreapp2.1\cwok1.AssemblyInfoInputs.cache
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\obj\Debug\netcoreapp2.1\cwok1.AssemblyInfo.cs
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\bin\Debug\netcoreapp2.1\cwok1.deps.json
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\bin\Debug\netcoreapp2.1\cwok1.runtimeconfig.json
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\bin\Debug\netcoreapp2.1\cwok1.runtimeconfig.dev.json
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\bin\Debug\netcoreapp2.1\cwok1.dll
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\bin\Debug\netcoreapp2.1\cwok1.pdb
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\obj\Debug\netcoreapp2.1\cwok1.dll
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1\cwok1\obj\Debug\netcoreapp2.1\cwok1.pdb

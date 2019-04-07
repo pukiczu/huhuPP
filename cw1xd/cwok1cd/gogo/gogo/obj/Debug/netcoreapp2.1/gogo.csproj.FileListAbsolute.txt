@@ -1,0 +1,11 @@
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\bin\Debug\netcoreapp2.1\gogo.deps.json
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\bin\Debug\netcoreapp2.1\gogo.runtimeconfig.json
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\bin\Debug\netcoreapp2.1\gogo.runtimeconfig.dev.json
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\bin\Debug\netcoreapp2.1\gogo.dll
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\bin\Debug\netcoreapp2.1\gogo.pdb
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\obj\Debug\netcoreapp2.1\gogo.csprojAssemblyReference.cache
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\obj\Debug\netcoreapp2.1\gogo.csproj.CoreCompileInputs.cache
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\obj\Debug\netcoreapp2.1\gogo.AssemblyInfoInputs.cache
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\obj\Debug\netcoreapp2.1\gogo.AssemblyInfo.cs
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\obj\Debug\netcoreapp2.1\gogo.dll
+D:\PPzZimeczkami\pierdoly\cw1xd\cwok1cd\gogo\gogo\obj\Debug\netcoreapp2.1\gogo.pdb
