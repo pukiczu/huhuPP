@@ -1,0 +1,11 @@
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\obj\Debug\netcoreapp2.1\cwok2cd.csprojAssemblyReference.cache
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\obj\Debug\netcoreapp2.1\cwok2cd.csproj.CoreCompileInputs.cache
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\obj\Debug\netcoreapp2.1\cwok2cd.AssemblyInfoInputs.cache
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\obj\Debug\netcoreapp2.1\cwok2cd.AssemblyInfo.cs
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\bin\Debug\netcoreapp2.1\cwok2cd.deps.json
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\bin\Debug\netcoreapp2.1\cwok2cd.runtimeconfig.json
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\bin\Debug\netcoreapp2.1\cwok2cd.runtimeconfig.dev.json
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\bin\Debug\netcoreapp2.1\cwok2cd.dll
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\bin\Debug\netcoreapp2.1\cwok2cd.pdb
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\obj\Debug\netcoreapp2.1\cwok2cd.dll
+D:\PPzZimeczkami\huhu\huhuPP\cw2xd\cwok2cd\cwok2cd\obj\Debug\netcoreapp2.1\cwok2cd.pdb
